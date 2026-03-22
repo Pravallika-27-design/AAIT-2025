@@ -1,7 +1,7 @@
 # AAIT Lab Repository
 
 ## Project Title:
-Student Performance / Data Analysis Project
+Student Performance Data Analysis Project
 
 ## Problem:
 The goal of this project is to analyze student performance using data and visualize insights.
@@ -15,7 +15,6 @@ The goal of this project is to analyze student performance using data and visual
 ## Files Included:
 - Python code file
 - Screenshots of dashboard
-- Repository screenshot
 
 ## Next Steps:
 - Improve visualization
